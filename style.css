@@ -1,0 +1,143 @@
+
+
+main {
+    display: flex;
+    justify-content: center;
+    max-width: 90rem;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0.017rem 0.017rem 0.017rem 0.017rem #888888;
+}
+
+
+.blockone {
+    text-align: center;
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    margin-top: 10rem;
+    border-radius: 12%;
+    height: 35rem;
+    width: 31.125rem;
+}
+
+.blockTitle {
+    font-size: 1.325rem;
+    font-weight: 900;
+    color: hsl(221, 100%, 96%);
+    margin-top: 2.5rem;
+}
+
+
+.theCircle {
+    background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+    border-radius: 50%;
+    width: 15rem;
+    height: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2.25rem;
+}
+
+.theNumber {
+    color: hsl(0, 0%, 100%);
+    font-size: 5rem;
+    font-weight: 700;
+    padding: 3.575rem 2rem 0 2rem;
+}
+
+.bottomSentence {
+    display: block;
+    font-size: 1.1875rem;
+    color: hsl(241, 100%, 89%);
+}
+
+.great {
+    font-size: 2.1875rem;
+    font-weight: 600;
+    color:hsl(0, 0%, 100%);
+    margin-bottom: -0.3125rem;
+
+}
+
+.yourScore {
+    color: hsl(223, 45%, 89%);
+    font-weight: 600;
+    margin-left: 3.75rem;
+    margin-right: 3.75rem;
+}
+
+.blocktwo {
+    height: 35rem;
+    width: 30rem;
+    margin-top: 10rem;
+    margin-left: 2rem;
+}
+
+.blocktwo h2 {
+    padding-top: 1.335rem;
+}
+
+.react { 
+    display: flex;
+    color: hsl(0, 100%, 67%);
+    background-color: hsl(0, 54%, 97%);
+    margin-top: 2rem;  
+    width: 21.875rem;
+    border-radius: 4%;
+}
+
+.firstIcon ,.secondIcon ,.thirdIcon , .fourthIcon {
+    padding-left: 0.3125rem;
+    padding-right: 0.9375rem;
+}
+
+.firstScore {
+    color:black;
+    margin-left: 7.5rem;
+}
+
+span {
+    color: hsl(241, 100%, 89%);
+}
+
+.memory {
+    display: flex;
+    color: hsl(39, 100%, 56%);
+    background-color: hsl(53, 64%, 95%);
+    margin-top: 2rem;  
+    width: 21.875rem;
+    border-radius: 4%;
+}
+
+
+
+.verbal {
+    display: flex;
+    color: hsl(166, 100%, 37%);
+    background-color: hsl(166, 68%, 96%);
+    margin-top: 2rem;
+    width: 21.875rem;
+    border-radius: 4%;
+}
+
+
+.visual {
+    display: flex;
+    color: hsl(234, 85%, 45%);
+    background-color: hsl(198, 71%, 97%);
+    margin-top: 2rem;
+    width: 21.875rem;
+    border-radius: 4%;
+}
+
+
+button {
+    margin-top: 1.875rem;
+    background-color: #001F3F;
+    color: hsl(0, 0%, 100%);
+    border-radius: 5rem;
+    height: 4rem;
+    width: 21.875rem;
+    font-size: 1.500rem;
+}
+
+
